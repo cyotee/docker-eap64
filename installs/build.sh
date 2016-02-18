@@ -1,0 +1,2 @@
+#!/bin/bash
+curl https://access.cdn.redhat.com/content/origin/files/sha256/7f/7f4e6d63196edc3cf15240b693391b9c0be474cda2194ba7575be31881f1a3d5/jboss-eap-6.3.0.zip?_auth_=1455672975_ba4dcb021d763b945f8be107f433b12e#!project=eap
